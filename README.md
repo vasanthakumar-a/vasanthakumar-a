@@ -3,7 +3,7 @@
   <img align="left" alt="Vasanthakumar's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vasanthakumar-a">
-  <img align="left" alt="Vasanthakumar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  <img align="left" alt="Vasanthakumar's Github" width="22px" src="https://www.iyevasoft.com/img/gif/webdev.gif" />
 </a>
 
 <br />
