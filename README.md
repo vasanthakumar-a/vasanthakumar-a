@@ -3,7 +3,7 @@
   <img align="left" alt="Vasanthakumar's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vasanthakumar-a">
-  <img align="left" alt="Vasanthakumar's Github" width="22px" src="https://www.iyevasoft.com/img/gif/webdev.gif" />
+  <img align="left" alt="Vasanthakumar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
@@ -11,7 +11,7 @@
 Hi ,I'm [Vasanthakumar A](https://www.linkedin.com/in/vasanthakumar-a/) ,Currently ,<strong>I'm pursuing 👩‍💻 B.Tech in Information Technology</strong> from Sri Eshwar College of Engineering ,Coimbatore.
 
 
- <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" />
+ <img align="right" alt="GIF" src="https://www.iyevasoft.com/img/gif/webdev.gif" width="400" height="300" />
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on HTML5,CSS,Ethereum,Truffle;
