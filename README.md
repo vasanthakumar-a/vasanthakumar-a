@@ -43,11 +43,4 @@ Hi ,I'm [Vasanthakumar A](https://www.linkedin.com/in/vasanthakumar-a/) ,Current
 
 
 <br/>
-  
-
-- **📈 Github Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeyasri-001&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
-
 
