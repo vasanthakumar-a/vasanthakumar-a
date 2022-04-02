@@ -5,6 +5,9 @@
 <a href="https://github.com/vasanthakumar-a">
   <img align="left" alt="Vasanthakumar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a>
+  <img align="left" alt="Follow Vasanthakumar" width="22px" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" />
+</a>
 
 <br />
 
@@ -33,6 +36,7 @@ Hi ,I'm [Vasanthakumar A](https://www.linkedin.com/in/vasanthakumar-a/) ,Current
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
