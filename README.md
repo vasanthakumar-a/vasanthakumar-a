@@ -6,7 +6,7 @@
   <img align="left" alt="Vasanthakumar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a>
-  <img align="left" alt="Follow Vasanthakumar" width="22px" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" />
+  <img align="left" alt="Follow Vasanthakumar" src="https://img.shields.io/github/followers/vasanthakumar-a.svg?style=social&label=Follow&maxAge=2592000" />
 </a>
 
 <br />
